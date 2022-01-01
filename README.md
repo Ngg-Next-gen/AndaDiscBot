@@ -3,3 +3,5 @@ A Simple Advanced Discord.js Starter Bot template with a good Handler with allia
 
 ## Get Started
 Go to ``.env`` and paste your token there and run it by ``node index`` or ``npm start``
+
+## Created By Babymonie,RussianHackerJake,SudhanPlayz
